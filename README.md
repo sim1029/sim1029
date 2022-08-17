@@ -14,7 +14,6 @@
       <img src="https://img.shields.io/badge/Website-black?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio Badge"/>
     </a>
   </div>
-  <img src="https://komarev.com/ghpvc/?username=sim1029&style=flat-square&color=green" alt="profile views counter"/>
 </div>
 
 
@@ -26,7 +25,7 @@ I am a Full Stack Developer from Pittsburgh, PA :cityscape:
 
 - :man_student: Currently I am pursuing a BS (Expected 2023) + MS (Expected 2024) in Computer Science at the University of Pittsburgh.  
 
-- :briefcase: Past SWE intern at **Capital One** and **Federated Hermes** 
+- :briefcase: Past SWE intern at <img alt="Cap1" src="https://img.shields.io/badge/Capital%20One-CC2427?style=for-the-badge&logo=capital%20one&logoColor=red"> <img alt="Federated Hermes" src="https://img.shields.io/badge/Federated%20Hermes-0485CB?style=for-the-badge&logoColor=red">
 
 - :apple: Teaching Assistant for 3 CS courses
 
@@ -43,6 +42,7 @@ I am a Full Stack Developer from Pittsburgh, PA :cityscape:
 
 <div style="display:flex">
 <img alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
+<img alt="Swift" src="https://img.shields.io/badge/Swift-F64B2C?style=for-the-badge&logo=swift&logoColor=white">
 <img alt="Javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
 <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
 <img alt="Typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
@@ -60,11 +60,21 @@ I am a Full Stack Developer from Pittsburgh, PA :cityscape:
 <img alt="GithubActions" src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white">
 <img alt="Firebase" src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black">
 <img alt="Tailwind" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
+<img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7534FA?style=for-the-badge&logo=bootstrap&logoColor=white">
 <img alt="Git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
 <img alt="Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
 <img alt="GitLab" src="https://img.shields.io/badge/GitLab-FCA326?style=for-the-badge&logo=gitlab&logoColor=white">
 <img alt="VSCode" src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
 <img alt="Vim" src="https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white">
+</div>
+
+
+---
+
+<div>
+  <img src="https://komarev.com/ghpvc/?username=sim1029&style=flat-square&color=green" alt="profile views counter"/>
+  &nbsp;
+  <img src="https://img.shields.io/github/followers/sim1029?label=Follow%20Me%21&style=social" alt="followers counter"/>
 </div>
 
 
