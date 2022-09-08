@@ -38,6 +38,15 @@ I am a Full Stack Developer from Pittsburgh, PA :cityscape:
 ---
 
 
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sim1029&show_icons=true&theme=material-palenight"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sim1029&layout=compact&theme=material-palenight&hide=jupyter%20notebook"/>
+</div>
+
+---
+
+
 ### 👨‍💻 Technologies I have Used
 
 <div style="display:flex">
