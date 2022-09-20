@@ -25,7 +25,7 @@ I am a Full Stack Developer from Pittsburgh, PA :cityscape:
 
 - :man_student: Currently I am pursuing a BS (Expected 2023) + MS (Expected 2024) in Computer Science at the University of Pittsburgh.  
 
-- :briefcase: Past SWE intern at <img alt="Cap1" src="https://img.shields.io/badge/Capital%20One-CC2427?style=for-the-badge&logo=capital%20one&logoColor=red"> <img alt="Federated Hermes" src="https://img.shields.io/badge/Federated%20Hermes-0485CB?style=for-the-badge&logoColor=red">
+- :briefcase: Past SWE intern at **Capital One** and **Federated Hermes**
 
 - :apple: Teaching Assistant for 3 CS courses
 
