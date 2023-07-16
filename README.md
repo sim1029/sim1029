@@ -10,7 +10,7 @@
     <a href="https://twitter.com/_SimonSchueller">
       <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
     </a>
-    <a href="https://sim1029.github.io/personal-site-2021/">
+    <a href="https://simon-says-hello.netlify.app/">
       <img src="https://img.shields.io/badge/Website-black?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio Badge"/>
     </a>
   </div>
@@ -21,18 +21,18 @@
 
 
 ### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> About Me
-I am a Full Stack Developer from Pittsburgh, PA :cityscape:
+I am a Full Stack Developer and Cloud Architect from Pittsburgh, PA :cityscape:
 
-- :man_student: Currently I am pursuing a BS (Expected 2023) + MS (Expected 2024) in Computer Science at the University of Pittsburgh.  
+- :man_student: I recently achieved my BS in Computer Science (2023) from the University of Pittsburgh. I am currently pursuing my MS (Expected Spring 2024) in Computer Science at the University of Pittsburgh.  
 
-- :briefcase: Past SWE intern at **Capital One** and **Federated Hermes**
+- :briefcase: Past SWE intern at **Capital One** (twice!) and **Federated Hermes**
 
 - :apple: Teaching Assistant for 3 CS courses
 
-- 🌱 Learning DevOps and Cloud Computing 
+- 🌱 Learning Machine Learning, Databses and Cloud Architecture
 
 
-- ⚡️ **Fun fact:** I am an officer for Pitt CSC and help maintain [The Pitt CSC Internship Repo](https://github.com/pittcsc/Summer2023-Internships)
+- ⚡️ **Fun fact:** In May of 2023 I spent a month in India trekking the Himalayan mountains 🏔
 
 
 ---
@@ -41,7 +41,6 @@ I am a Full Stack Developer from Pittsburgh, PA :cityscape:
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sim1029&show_icons=true&theme=material-palenight"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sim1029&layout=compact&theme=material-palenight&hide=jupyter%20notebook"/>
 </div>
 
 ---
@@ -63,6 +62,7 @@ I am a Full Stack Developer from Pittsburgh, PA :cityscape:
 <img alt="NextJS" src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
 <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
 <img alt="Express" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white">
+<img alt="Kafka" src="https://img.shields.io/badge/Apache_Kafka-7847D5?style=for-the-badge&logo=apachekafka&logoColor=white">
 <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
 <img alt="DynamoDB" src="https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white">
 <img alt="AWS" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white">
@@ -77,6 +77,12 @@ I am a Full Stack Developer from Pittsburgh, PA :cityscape:
 <img alt="Vim" src="https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white">
 </div>
 
+
+---
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sim1029&layout=compact&theme=material-palenight&hide=jupyter%20notebook"/>
+</div>
 
 ---
 
